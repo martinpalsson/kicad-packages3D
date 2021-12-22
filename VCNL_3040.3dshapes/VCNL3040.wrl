@@ -37,7 +37,7 @@ Group {
                                     DEF o8 Group {
                                       children 
                                         DEF o9 Transform {
-                                          scale 0.104 0.104 0.104
+                                          scale 1.2 1.2 1.2
                                           children [ 
                                             DEF o10 Group {
                                               children [ 
@@ -173,7 +173,7 @@ Group {
                                     DEF o22 Group {
                                       children 
                                         DEF o23 Transform {
-                                          scale 0.104 0.104 0.104
+                                          scale 1.2 1.2 1.2
                                           children [ 
                                             DEF o24 Group {
                                               children [ 
@@ -305,7 +305,7 @@ Group {
                                     DEF o35 Group {
                                       children 
                                         DEF o36 Transform {
-                                          scale 1.5599999 1.5599999 1.5599999
+                                          scale 1.4400001 1.4400001 1.4400001
                                           children [ 
                                             DEF o37 Group {
                                               children [ 
@@ -437,7 +437,7 @@ Group {
                                     DEF o48 Group {
                                       children 
                                         DEF o49 Transform {
-                                          scale 0.104 0.104 0.104
+                                          scale 1.2 1.2 1.2
                                           children [ 
                                             DEF o50 Group {
                                               children [ 
@@ -575,7 +575,7 @@ Group {
                                     DEF o62 Group {
                                       children 
                                         DEF o63 Transform {
-                                          scale 1.5599999 1.5599999 1.5599999
+                                          scale 1.4400001 1.4400001 1.4400001
                                           children [ 
                                             DEF o64 Group {
                                               children [ 
@@ -707,7 +707,7 @@ Group {
                                     DEF o75 Group {
                                       children 
                                         DEF o76 Transform {
-                                          scale 1.5599999 1.5599999 1.5599999
+                                          scale 1.4400001 1.4400001 1.4400001
                                           children [ 
                                             DEF o77 Group {
                                               children [ 
